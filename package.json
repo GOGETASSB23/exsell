@@ -1,0 +1,30 @@
+{
+  "name": "exsell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hardhat.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MGI-3/exsell.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MGI-3/exsell/issues"
+  },
+  "homepage": "https://github.com/MGI-3/exsell#readme",
+  "dependencies": {
+    "@thirdweb-dev/sdk": "^4.0.99",
+    "ethers": "^5.7.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "web3": "^4.16.0"
+  }
+}
